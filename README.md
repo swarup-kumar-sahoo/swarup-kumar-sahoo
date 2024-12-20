@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Docker and Kubernetes.**
 
-- 👨‍💻 All of my projects are available at [swarupkumarsahoo.netlify.app](swarup.tech)
+- 👨‍💻 All of my projects are available at [swarup.tech](https://swarup.tech/)
 
 - 📫 How to reach me **kumarswarup7272@gmail.com**
 

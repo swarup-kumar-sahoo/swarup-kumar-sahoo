@@ -9,7 +9,7 @@
 
 ###
 
-<img align="center" height="450" src="https://i.gifer.com/5eKX.gif"  />
+<img align="center" height="250" src="https://i.gifer.com/5eKX.gif"  />
 
 ###
 

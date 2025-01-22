@@ -64,7 +64,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/swarup-kumar-sahoo/swarup-kumar-sahoo/output/snake.svg" alt="Snake animation" />
 
 ###
 

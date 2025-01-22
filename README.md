@@ -8,8 +8,9 @@
 </div>
 
 ###
-
-<img align="center" height="250" src="https://i.gifer.com/5eKX.gif"  />
+<div align="center">
+<img height="250" src="https://i.gifer.com/5eKX.gif"  />
+</div>
 
 ###
 

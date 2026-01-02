@@ -1,86 +1,95 @@
-<h2 align="left">
-  Hi 👋! My name is Swarup and I'm a Software Engineer specializing in Java Backend.
-</h2>
+<h1 align="center">
+  Hi 👋, I'm Swarup Kumar
+</h1>
 
-###
+<h3 align="center">
+  🚀 Java Backend Engineer | Spring Boot | Microservices
+</h3>
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=swarup-kumar-sahoo&show_icons=true&theme=dracula&hide_border=false&cache_seconds=86400"
-    height="150"
-    alt="GitHub stats"
-  />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%26+Microservices;Kafka+%7C+Docker+%7C+AWS;Building+Scalable+Systems" />
+</p>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarup-kumar-sahoo&layout=compact&langs_count=5&theme=dracula&hide_border=false&cache_seconds=86400"
-    height="150"
-    alt="Top languages"
-  />
-</div>
-
-###
+---
 
 <div align="center">
-  <img height="250" src="https://i.gifer.com/5eKX.gif" />
+  <img height="260" src="https://i.gifer.com/5eKX.gif" />
 </div>
 
-###
+---
 
-<br clear="both">
+## 👨‍💻 About Me
 
-###
+- 🔥 Java Backend Engineer with strong fundamentals  
+- ⚙️ Building **scalable REST APIs & microservices**  
+- ☁️ Experienced with **Docker, Kubernetes & AWS**  
+- 📊 Passionate about **system design & performance**  
+- 🚀 Always learning & improving  
 
-<h3 align="left">🛠 Tech Stack</h3>
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+## 🛠 Tech Stack
+
+<div align="center">
+
+### 💻 Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="45"/>
+
+### ☁️ DevOps & Cloud
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="45"/>
+
+### 🌐 Frontend & Others
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+
 </div>
 
-###
+---
 
-<h3 align="left">🌐 Connect with Me</h3>
+## 🏆 Highlights
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Expert-orange?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-Production-brightgreen?style=for-the-badge&logo=spring"/>
+  <img src="https://img.shields.io/badge/Microservices-Architect-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS-yellow?style=for-the-badge&logo=amazonaws"/>
+</p>
 
-###
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/swarup-kumar-sahoo/count.svg" />
 </div>
 
-###
+---
 
 <div align="center">
-  <img height="200" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+  <img height="220" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 </div>
+
+---
+
+<h3 align="center">
+  🚀 "Code. Build. Scale."
+</h3>

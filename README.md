@@ -1,6 +1,3 @@
-<h1 align="center">
-  Hi 👋, I'm Swarup Kumar Sahoo
-</h1>
 
 <!-- 🌊 Animated Header Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=180&section=header&text=Swarup%20Kumar%20Sahoo&fontSize=35&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />

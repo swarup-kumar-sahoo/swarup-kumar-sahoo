@@ -3,11 +3,11 @@
 </h1>
 
 <h3 align="center">
-  🚀 ML Engineering | Data Engineering | Feature Engineering
+  🤖 Machine Learning Engineer | Data Engineer | AI Builder
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%26+Microservices;Kafka+%7C+Docker+%7C+AWS;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer;Python+%7C+FastAPI+%7C+ML+Systems;Data+Engineering+%7C+Feature+Engineering;Building+Real-World+AI+Applications" />
 </p>
 
 ---
@@ -20,44 +20,68 @@
 
 ## 👨‍💻 About Me
 
-- 🔥 Python Engineer with strong fundamentals  
-- ⚙️ Building **scalable REST APIs & microservices**  
-- ☁️ Experienced with **Docker, Kubernetes & AWS**  
-- 📊 Passionate about **system design & performance**  
-- 🚀 Always learning & improving  
+- 🤖 ML Engineer focused on **real-world AI systems**
+- 🐍 Strong in **Python, FastAPI & backend systems**
+- 📊 Building **data pipelines & feature engineering workflows**
+- 🧠 Exploring **Deep Learning & Recommendation Systems**
+- ⚡ Love turning ideas into **scalable intelligent products**
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
 
-### 💻 Backend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="45"/>
+### 🧠 Machine Learning & Data
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45"/>
 
-### ☁️ DevOps & Cloud
+### ⚙️ Backend & APIs
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
+
+### ☁️ Cloud & Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
 
-### 🌐 Frontend & Others
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+### 🌐 Frontend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
 
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🧠 Current Focus
+
+- 🔍 Building **AI-powered applications (domain-specific LLMs)**
+- 📦 Developing **end-to-end ML pipelines**
+- ⚡ Working on **real-time systems & recommendation engines**
+- 📈 Learning **MLOps & scalable ML deployment**
 
 ---
 
 ## 🏆 Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-Expert-orange?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-Production-brightgreen?style=for-the-badge&logo=spring"/>
-  <img src="https://img.shields.io/badge/Microservices-Architect-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud-AWS-yellow?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Engineer-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Engineering-Pipelines-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-Building%20Systems-purple?style=for-the-badge"/>
 </p>
 
 ---
@@ -91,5 +115,5 @@
 ---
 
 <h3 align="center">
-  🚀 "Code. Build. Scale."
+  🚀 "Build AI. Solve Real Problems. Scale Impact."
 </h3>

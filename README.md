@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Java Backend Engineer | Spring Boot | Microservices
+  🚀 ML Engineering | Data Engineering | Feature Engineering
 </h3>
 
 <p align="center">

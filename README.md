@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔥 Java Backend Engineer with strong fundamentals  
+- 🔥 Python Engineer with strong fundamentals  
 - ⚙️ Building **scalable REST APIs & microservices**  
 - ☁️ Experienced with **Docker, Kubernetes & AWS**  
 - 📊 Passionate about **system design & performance**  

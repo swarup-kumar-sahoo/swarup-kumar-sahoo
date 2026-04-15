@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%26+Microservices;Kafka+%7C+Docker+%7C+AWS;Building+Scalable+Systems" />
+  <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%26+Microservices;Kafka+%7C+Docker+%7C+AWS;Building+Scalable+Systems" /> -->
 </p>
 
 ---

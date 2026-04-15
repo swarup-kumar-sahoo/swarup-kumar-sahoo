@@ -1,22 +1,19 @@
-<!-- 🟢 Terminal Style Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=170&section=header&text=$%20whoami&fontColor=00FF00&fontSize=28&animation=fadeIn&fontAlignY=30" />
+<!-- 🟢 Terminal Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=150&section=header&text=$%20initialize_profile.sh&fontColor=00FF00&fontSize=26&animation=fadeIn&fontAlignY=35" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=>+Swarup+Kumar+Sahoo;>+ML+Engineer;>+Python+Developer;>+Building+AI+Systems;>+Learning+MLOps+%26+Scaling+Models" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=700&color=00FF00&center=true&vCenter=true&width=800&lines=Booting+system...;Loading+ML+modules...;Initializing+Neural+Network...;Training+Model...;Deployment+Ready+🚀" />
 </p>
 
-<!-- 🟢 Fake Terminal Box -->
-<div align="center">
+---
 
 ```bash
-$ whoami
-Swarup Kumar Sahoo
+$ boot_sequence --start
 
-$ role
-Machine Learning Engineer
+[✔] Loading profile...
+[✔] Initializing environment...
+[✔] Importing libraries: numpy, pandas, sklearn...
+[✔] Connecting to data pipeline...
+[✔] Model weights loaded successfully.
 
-$ stack
-Python | FastAPI | ML | Data Engineering
-
-$ status
-Building AI systems...
+System Ready ✔

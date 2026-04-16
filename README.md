@@ -13,15 +13,6 @@
 
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-### 👨‍💻 About Me
-
-- 🤖 ML Engineer focused on **real-world AI systems**
-- 🐍 Strong in **Python, FastAPI & backend systems**
-- 📊 Building **data pipelines & feature engineering workflows**
-- 🧠 Exploring **Deep Learning & Recommendation Systems**
-- ⚡ Love turning ideas into **scalable intelligent products**
-- 📫 Reach me at **your-email@gmail.com**
-- ⚡ Fun fact: **I debug with print statements and I'm proud of it 😄**
 
 <br clear="right"/>
 

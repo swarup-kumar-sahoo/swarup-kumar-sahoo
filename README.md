@@ -1,102 +1,116 @@
 <h1 align="center">
-  Hi 👋, I'm Swarup Kumar Sahoo
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=SWARUP+KUMAR+SAHOO;ML+Engineer+%7C+AI+Builder;Building+Real-World+AI+Systems;Scalable+%7C+Intelligent+%7C+Impact-Driven" />
 </h1>
 
-<h3 align="center">
-  🤖 Machine Learning Engineer | Data Engineer | AI Builder
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer;Python+%7C+FastAPI+%7C+ML+Systems;Data+Engineering+%7C+Feature+Engineering;Building+Real-World+AI+Applications" />
-</p>
-
----
-
 <div align="center">
-  <img height="260" src="https://i.gifer.com/5eKX.gif" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/FOCUS-ML%20%7C%20AI%20%7C%20Data-58a6ff?style=for-the-badge&labelColor=0d1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/BASE-India-f0883e?style=for-the-badge&labelColor=0d1117"/>
 </div>
 
+<br/>
+
+```
+███████╗██╗    ██╗ █████╗ ██████╗ ██╗   ██╗██████╗
+██╔════╝██║    ██║██╔══██╗██╔══██╗██║   ██║██╔══██╗
+███████╗██║ █╗ ██║███████║██████╔╝██║   ██║██████╔╝
+╚════██║██║███╗██║██╔══██║██╔══██╗██║   ██║██╔═══╝
+███████║╚███╔███╔╝██║  ██║██║  ██║╚██████╔╝██║
+╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝
+```
+
 ---
 
-## 👨‍💻 About Me
+## `$ whoami`
 
-- 🤖 ML Engineer focused on **real-world AI systems**
-- 🐍 Strong in **Python, FastAPI & backend systems**
-- 📊 Building **data pipelines & feature engineering workflows**
-- 🧠 Exploring **Deep Learning & Recommendation Systems**
-- ⚡ Love turning ideas into **scalable intelligent products**
+```python
+class SwarupKumarSahoo:
+    role       = "Machine Learning Engineer"
+    focus      = ["Real-world AI Systems", "Data Engineering", "LLM Apps"]
+    stack      = ["Python", "FastAPI", "scikit-learn", "Docker", "AWS"]
+    exploring  = ["Deep Learning", "Recommendation Systems", "MLOps"]
+    motto      = "Build AI. Solve Real Problems. Scale Impact."
+    available  = True  # open to collaboration
+```
 
 ---
 
-## 🚀 Tech Stack
-
-<div align="center">
+## `$ cat tech_stack.json`
 
 ### 🧠 Machine Learning & Data
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45"/>
+![Python](https://img.shields.io/badge/Python-Expert-00ff41?style=flat-square&logo=python&logoColor=black&labelColor=0d1117)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-00ff41?style=flat-square&logo=scikit-learn&logoColor=black&labelColor=0d1117)
+![NumPy](https://img.shields.io/badge/NumPy-Array_Ops-00ff41?style=flat-square&logo=numpy&logoColor=black&labelColor=0d1117)
+![Pandas](https://img.shields.io/badge/Pandas-DataFrames-00ff41?style=flat-square&logo=pandas&logoColor=black&labelColor=0d1117)
 
 ### ⚙️ Backend & APIs
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
+![FastAPI](https://img.shields.io/badge/FastAPI-REST-58a6ff?style=flat-square&logo=fastapi&logoColor=black&labelColor=0d1117)
+![Docker](https://img.shields.io/badge/Docker-Containers-58a6ff?style=flat-square&logo=docker&logoColor=black&labelColor=0d1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-58a6ff?style=flat-square&logo=mongodb&logoColor=black&labelColor=0d1117)
 
-### ☁️ Cloud & Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-Cloud-f0883e?style=flat-square&logo=amazonaws&logoColor=black&labelColor=0d1117)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-f0883e?style=flat-square&logo=kubernetes&logoColor=black&labelColor=0d1117)
+![Git](https://img.shields.io/badge/Git-Version_Control-f0883e?style=flat-square&logo=git&logoColor=black&labelColor=0d1117)
 
 ### 🌐 Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-
-</div>
+![React](https://img.shields.io/badge/React-UI-bc8cff?style=flat-square&logo=react&logoColor=black&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-bc8cff?style=flat-square&logo=javascript&logoColor=black&labelColor=0d1117)
 
 ---
 
-## 📊 GitHub Stats
+## `$ git log --oneline`
+
+```
+a3f91c  ✦  feat: deploy domain-specific LLM pipeline       [2d ago]
+b7e22a  ✦  fix: optimize feature store & data ingestion    [5d ago]
+c01d88  ✦  feat: recommendation engine v2.0 release        [1w ago]
+f4a99b  ✦  chore: MLOps pipeline refactor & cleanup        [2w ago]
+d99021  ✦  feat: real-time scoring API with FastAPI         [3w ago]
+```
+
+---
+
+## `$ cat current_focus.txt`
+
+```
+[AI]  ──  Building domain-specific LLMs & RAG systems
+[ML]  ──  End-to-end ML pipelines from data to deployment
+[RT]  ──  Real-time systems & low-latency inference
+[OP]  ──  MLOps, model monitoring & scalable deployment
+```
+
+---
+
+## `$ ./stats.sh`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=swarup-kumar-sahoo&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=30363d&title_color=00ff41&icon_color=58a6ff&text_color=c9d1d9" height="175"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarup-kumar-sahoo&theme=chartreuse-dark&background=0d1117&border=30363d&ring=00ff41&fire=f0883e&currStreakLabel=58a6ff" height="175"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarup-kumar-sahoo&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=30363d&title_color=00ff41&text_color=c9d1d9" height="160"/>
 </p>
 
 ---
 
-## 🧠 Current Focus
-
-- 🔍 Building **AI-powered applications (domain-specific LLMs)**
-- 📦 Developing **end-to-end ML pipelines**
-- ⚡ Working on **real-time systems & recommendation engines**
-- 📈 Learning **MLOps & scalable ML deployment**
-
----
-
-## 🏆 Highlights
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Engineer-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Engineering-Pipelines-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-Building%20Systems-purple?style=for-the-badge"/>
-</p>
-
----
-
-## 🌐 Connect With Me
+## `$ ./connect.sh --open`
 
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/[ LinkedIn ]-Connect-58a6ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram"/>
+    <img src="https://img.shields.io/badge/[ Instagram ]-Follow-f778ba?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117"/>
   </a>
+  &nbsp;
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/[ Gmail ]-Email-f0883e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
   </a>
 </p>
 
@@ -108,12 +122,6 @@
 
 ---
 
-<div align="center">
-  <img height="220" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
-</div>
-
----
-
-<h3 align="center">
-  🚀 "Build AI. Solve Real Problems. Scale Impact."
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%24+echo+%22Build+AI.+Solve+Real+Problems.+Scale+Impact.%22;%3E+Initializing+next+project..._%E2%96%88" />
+</p>

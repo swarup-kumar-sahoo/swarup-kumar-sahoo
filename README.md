@@ -50,17 +50,6 @@
 
 ---
 
-### 🚀 Current Focus
-
-| Area | What I'm Working On |
-|------|-------------------|
-| 🔍 **AI Apps** | Building domain-specific LLMs & RAG pipelines |
-| 📦 **ML Pipelines** | End-to-end pipelines from raw data to deployment |
-| ⚡ **Real-time** | Low-latency inference & recommendation engines |
-| 📈 **MLOps** | Model monitoring, CI/CD for ML, scalable deployment |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
